@@ -1,13 +1,13 @@
-# Hi, I'm Tony 👋
+# hi, i'm tony 👋
 
-I'm a Computing Science student at SFU, interested in software development and product management.
+i'm a computing science student at sfu, interested in software development and product management.
 
-- 🌱 Currently learning systems programming and data structures
-- 💻 Building: [tonyjwu.dev](https://tonyjwu.dev)
-- 📊 Interested in: product analytics, data-driven decision making
-- 📫 Reach me: [Email](mailto:tjw11@sfu.ca) · [LinkedIn](https://www.linkedin.com/in/tonyjxwu/)
+- 🌱 currently learning systems programming and data structures
+- 💻 building: [tonyjwu.dev](https://tonyjwu.dev)
+- 📊 interested in: product analytics, data-driven decision making
+- 📫 reach me: [email](mailto:tjw11@sfu.ca) · [LinkedIn](https://www.linkedin.com/in/tonyjxwu/)
 
-## Technologies
+## technologies
 
-- Languages: C/C++, Python, SQL
-- Tools: Git, GitHub, Linux, VS Code
+- languages: c/c++, python, sql
+- tools: tit, github, linux, vs code
